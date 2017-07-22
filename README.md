@@ -8,4 +8,4 @@ the artist needs a landing page first, like when you click on the website it wou
 navigation/control bar must be at the top of the page containing, Home, About, Paintings/gallery, workshops, contact pages link to each other
 bottom of te page must show social media icons such intsagram, plus contact infos tel etc where relevant
 
-there must be a link/icon will lead you a client to purchase a painting or enroll to a workshop
+there must be a link/icon that will lead a client to purchase a painting or a ticket to enroll/join a workshop
